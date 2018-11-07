@@ -1,2 +1,7 @@
-# SQL-Fundamentals
-Learn SQL
+# About
+
+- Muhammad Azhar Rasyad
+
+# Referensi
+
+- https://www.sololearn.com/Course/SQL/
