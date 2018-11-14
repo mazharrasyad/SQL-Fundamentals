@@ -40,3 +40,24 @@ create table zoo(
     age int,
     food_balance int
 )
+
+insert into users values
+(default, 'login1', 'pass1'),
+(default, 'login2', 'pass2'),
+(default, 'login3', 'pass3'),
+(default, 'login4', 'pass4'),
+(default, 'login5', 'pass5'),
+(default, 'login6', 'pass6'),
+(default, 'login7', 'pass7'),
+(default, 'login8', 'pass8'),
+(default, 'login9', 'pass9'),
+(default, 'login10', 'pass10'),
+(default, 'login11', 'pass11');
+
+insert into students values
+(default, 'Abdi', 18, 'STTNF'),
+(default, 'Budi', 20, 'UI'),
+(default, 'Cadi', 22, 'BSI');
+
+insert into customers values
+();
